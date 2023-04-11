@@ -19,3 +19,11 @@
   font-size: 40px;
   font-weight: normal;
 }
+
+.container .video-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  padding: 10px;
+}
