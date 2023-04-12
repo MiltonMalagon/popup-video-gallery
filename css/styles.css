@@ -37,3 +37,10 @@
   cursor: pointer;
   overflow: hidden;
 }
+
+.container .video-container .video video {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  transition: .2s linear;
+}
