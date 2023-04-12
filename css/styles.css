@@ -16,7 +16,7 @@
   color: #E8E8E8;
   text-align: center;
   padding: 15px;
-  font-size: 40px;
+  font-size: 2em;
   font-weight: normal;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .container .video-container .video {
-  height: 250px;
+  /* height: 250px; */
   width: 350px;
   border: 5px solid #FFF;
   border-radius: 5px;
