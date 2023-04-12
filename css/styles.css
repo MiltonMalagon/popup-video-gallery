@@ -69,3 +69,14 @@
   border: 3px solid #FFF;
   object-fit: cover;
 }
+
+.container .popup-video span {
+  position: absolute;
+  top: 5px;
+  right: 20px;
+  font-size: 50px;
+  color: #FFF;
+  font-weight: bolder;
+  z-index: inherit;
+  cursor: pointer;
+}
