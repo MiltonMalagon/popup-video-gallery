@@ -80,3 +80,9 @@
   z-index: inherit;
   cursor: pointer;
 }
+
+@media (max-width:768px) {
+  .container .popup-video video {
+    width: 95%;
+  }
+}
