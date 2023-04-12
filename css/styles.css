@@ -44,3 +44,17 @@
   object-fit: cover;
   transition: .2s linear;
 }
+
+.container .video-container .video:hover video {
+  transform: scale(1.1);
+}
+
+.container .popup-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  background: rgba(0, 0, 0, .7);
+  height: 100%;
+  width: 100%;
+}
